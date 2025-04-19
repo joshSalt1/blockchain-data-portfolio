@@ -4113,7 +4113,7 @@ contract KittyCore is KittyMinting {
         }
     }
 }",False,False,False,False
-0x9f8f72aA9304c8B593d555F12eF6589cC3A579A2,Token,0,2701.0,2017-11-25 13:24:17,"// MKR Token
+0x9f8f72aA9304c8B593d555F12eF6589cC3A579A2,Token,0,2702.0,2017-11-25 13:24:17,"// MKR Token
 
 // hevm: flattened sources of src/mkr-499.sol
 pragma solidity ^0.4.15;
